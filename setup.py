@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='Colored',
-    version='0.1β',
+    version='V0.1β',
     license='Creative Commons Zero v1.0 Universal',
     author="Trenten Miller",
     author_email='inyourface3445@gmail.com',
